@@ -1,3 +1,3 @@
 # coordinates-sys-interconv
 SEZ &lt;-> ECEF &lt;-> ECI
-also automating using makefiles
+\nalso automating using makefiles
